@@ -1,3 +1,12 @@
+body {
+    background-color: lightgrey;
+}
+
+.principal{
+    background-color: white;
+    width: 70%;
+    margin: auto;
+}
 
 .imagem-carrossel{
     object-fit: cover;
@@ -20,4 +29,13 @@
 
 .borda-cor-especial{
     border-color: darkred;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
+
+.card-posicao-imagem{
+    object-fit: cover;
+    height: 200px;
 }
